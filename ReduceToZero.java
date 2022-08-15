@@ -1,3 +1,4 @@
+// Leetcode problem no:1342 
 public class ReduceToZero {
     public static void main(String[] args) {
         System.out.println(reduce(14));
